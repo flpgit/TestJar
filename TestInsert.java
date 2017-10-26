@@ -6,6 +6,7 @@ public class TestInsert {
 		System.out.print("before:");
 		print(arr);
 		System.out.print("after:");
+		System.out.print("after  git checkout:");
 		sortInsert(arr);;
 		print(arr);
 	}
