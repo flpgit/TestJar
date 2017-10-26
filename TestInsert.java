@@ -7,6 +7,7 @@ public class TestInsert {
 		print(arr);
 		System.out.print("after:");
 		System.out.print("after  git checkout:");
+		System.out.print("²âÊÔgit°æ±¾»ØÍËcheckout:");
 		sortInsert(arr);;
 		print(arr);
 	}
