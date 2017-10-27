@@ -37,6 +37,7 @@ public class TestInsert {
 				in --;
 			}
 			arr[in] = temp;
+			System.out.print("在issue-01分支上修复bug");
 		}
 	}
 }
