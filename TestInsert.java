@@ -19,6 +19,7 @@ public class TestInsert {
 	public static void print(int[] arr){
 		for(int x:arr){
 			System.out.print(x+",");
+			System.out.print("测试冲突解决,分支dev6上进行了修改");
 		}
 		System.out.println();
 	}
