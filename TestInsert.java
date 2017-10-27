@@ -22,6 +22,7 @@ public class TestInsert {
 			System.out.print("测试冲突解决,分支dev6上修改后,master也进行了修改");
 			System.out.print("测试冲突解决,分支dev6上进行了修改");
 			System.out.print("收到解决dev6和master分支的冲突后进行提交");
+			System.out.print("再次测试ff合并方式");
 		}
 		System.out.println();
 	}
