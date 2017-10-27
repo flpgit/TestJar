@@ -10,6 +10,7 @@ public class Level implements Serializable {
 	private String title ;
 	private String flag ;
 	private String note ;    //devre分支上进行修改
+	private String noted ;    //D盘仓库中对devre分支上进行修改
 	public Integer getLid() {
 		return lid;
 	}
