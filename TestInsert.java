@@ -8,6 +8,7 @@ public class TestInsert {
 		System.out.print("after:");
 		System.out.print("after  git checkout:");
 		System.out.print("测试git版本回退checkout:");
+		System.out.print("创建分支并且进行修改,Creating a new branch is quick.");
 		sortInsert(arr);;
 		print(arr);
 	}
