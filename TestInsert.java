@@ -9,11 +9,9 @@ public class TestInsert {
 		System.out.print("after  git checkout:");
 		System.out.print("测试git版本回退checkout:");
 		System.out.print("创建分支并且进行修改,Creating a new branch is quick.");
-<<<<<<< HEAD
 		System.out.print("dev创建之后在master也进行了修改");
-=======
 		System.out.print("分支dev3上进行了修改");
->>>>>>> dev3
+		System.out.print("冲突解决完成之后标记消失了,再次修改");
 		sortInsert(arr);;
 		print(arr);
 	}
